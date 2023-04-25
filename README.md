@@ -1,5 +1,4 @@
-# Welcome to My Imdb Api
-***
+IMDB API App
 
 ## Task
 It was necessary to build a backend API that would enable users to look for movies based on genre.
@@ -16,9 +15,3 @@ Example of usage
 python app.py
 curl "http://localhost:8080?genre=action"
 ```
-
-### The Core Team
-
-
-<span><i>Made at <a href='https://qwasar.io'>Qwasar SV -- Software Engineering School</a></i></span>
-<span><img alt='Qwasar SV -- Software Engineering School's Logo' src='https://storage.googleapis.com/qwasar-public/qwasar-logo_50x50.png' width='20px'></span>
